@@ -47,7 +47,7 @@ HAI 1.2
                         I IZ TAKIN YR MOARMONIES MKAY
                         GTFO
                     OMGWTF
-                        VISIBLE "THX FUR USIN LOLCAT BANKIN SURVIS"
+                        VISIBLE "THX FUR USIN LOLCAT BANKIN SURVIS :{NAEM}"
                         AWSUM R FAIL
                 OIC
             NO WAI, GTFO
